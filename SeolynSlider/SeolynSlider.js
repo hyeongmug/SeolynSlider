@@ -1,5 +1,4 @@
-  
-(function($) {
+  (function($) {
     $.fn.SeolynSlider = function(options) {
 
         var defaults = {
